@@ -1,0 +1,10 @@
+Hello
+
+class asachClass
+{
+	public static void main(String[] args)
+	{
+
+	}
+
+}
