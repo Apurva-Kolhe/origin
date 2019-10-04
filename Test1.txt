@@ -7,15 +7,7 @@ class asachClass
 
 	method new method()
 	{
-`			la la la..lala lalalalalalalal
-bkh
-h
-gf
-h
-gh
-gf
-
-modified for stash
+		changed local master
 	}
 	}
 
