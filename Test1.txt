@@ -6,10 +6,9 @@ class asachClass
 	{
 
 	method new method()
-{
+	{
 
-}
-
+	}
 	}
 
 }
