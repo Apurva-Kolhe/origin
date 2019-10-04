@@ -10,6 +10,8 @@ class asachClass
 		changed local master
 		now i changed from remote directlyl
 		mi pan ithech add karnar
+		firse changing from local :|
+
 	}
 	}
 
