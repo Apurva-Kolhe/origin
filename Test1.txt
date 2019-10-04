@@ -5,13 +5,10 @@ class asachClass
 	public static void main(String[] args)
 	{
 
-h
-jgh
-j
-hj
-g
-j
-gh
+	method new method()
+{
+
+}
 
 	}
 
